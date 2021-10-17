@@ -1,4 +1,5 @@
 #LIBRARIES
+#WAS USED FOR TESTING CODE,NOT PART OF MAIN
 from tkinter import *
 from PIL import Image, ImageTk
 import tkinter as tk
